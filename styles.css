@@ -1,0 +1,8 @@
+#gameboard, #pieces {
+    position: absolute; 
+}
+
+#dashboard {
+    float: right;
+    width: 40%;
+}
